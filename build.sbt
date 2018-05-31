@@ -1,4 +1,4 @@
-name := """zbooks"""
+name := """zbooks-master"""
 
 version := "1.0-SNAPSHOT"
 
